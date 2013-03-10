@@ -18,7 +18,7 @@ function onDeviceReady() {
 
 
 function doStuff(){
-	console.log('This is a console log, in the cloud!');
+	console.log('This is a console log, in the cloud! XXXXX');
 	console.log('Device Heading');
 	console.log(deviceHeading);
 	console.log('Device Name');
