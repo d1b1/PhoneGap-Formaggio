@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns	= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id			= "com.mwriley.pgbuild.sample"
+	id			= "io.formagg.mobile.sample"
 	version		= "1.0.0">
 
 	<name>PhoneGap Formaggio 101</name>
@@ -10,7 +10,7 @@
 		A sample PhoneGap application for the Formagg.io API.
 	</description>
 
-	<author href="http://matthewriley.us">
+	<author href="http://happypath.ws">
 		Stephan Smith
 	</author>
 
